@@ -21,3 +21,12 @@ Práctica de servidor DNS maestro y esclavo con Vagrant
     3.2. 
         Configuración del servidor DNS esclavo.
         ![imagen](/images/image5.png)
+    
+4. 
+    Verificar la resolución de nombres.
+    4.1.
+        ![imagen](/images/image6.png)
+        ![imagen](/images/image7.png)
+    4.2.
+        ![imagen](/images/image8.png)
+        ![imagen](/images/image9.png)
